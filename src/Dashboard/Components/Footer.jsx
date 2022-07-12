@@ -5,7 +5,7 @@ function Footer() {
     <div id="footer">
       <span>by</span>
       <a rel="noopener noreferrer" href="https://github.com/riteshkhamitkar">
-        Ritesh Khamitkar
+        -Ritesh Khamitkar
       </a>
     </div>
   );
